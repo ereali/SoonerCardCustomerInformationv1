@@ -1,0 +1,2 @@
+/Users/edward/OneDrive - University of Oklahoma/Programming/SoonerCardToID/ISOParse/bin/Release/netcoreapp3.1/win-x64/publish/ISOParse.pdb
+/Users/edward/OneDrive - University of Oklahoma/Programming/SoonerCardToID/ISOParse/bin/Release/netcoreapp3.1/win-x64/publish/ISOParse.exe
