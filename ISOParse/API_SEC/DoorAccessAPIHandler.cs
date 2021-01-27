@@ -99,12 +99,12 @@ namespace ISOParse.API_SEC
             doorAccess.DoorAccessPlansByCustomer(token, tokenSecret, custNum);
 
             //Function for outputting list matches for door access
-            List<DoorAccessVars> test3 = doorAccess.AllDoorAccessPlans.Where(w => doorAccess.CustDoorAccessPlans.Contains(w.Id)).ToList();
+            List<DoorAccessVars> doorAccessMatch = doorAccess.AllDoorAccessPlans.Where(accessplan => doorAccess.CustDoorAccessPlans.Contains(accessplan.Id)).ToList();
 
             int n = 0;
 
             Console.WriteLine();
-            foreach (var i in test3)
+            foreach (var i in doorAccessMatch)
             {
                 Console.WriteLine(i.Name);
                 n++;

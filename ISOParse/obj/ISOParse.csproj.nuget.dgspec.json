@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edward/Projects/Github/SoonerCardFront/ISOParse/ISOParse.csproj": {}
+    "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj": {}
   },
   "projects": {
-    "/Users/edward/Projects/Github/SoonerCardFront/ISOParse/ISOParse.csproj": {
+    "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edward/Projects/Github/SoonerCardFront/ISOParse/ISOParse.csproj",
+        "projectUniqueName": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
         "projectName": "ISOParse",
-        "projectPath": "/Users/edward/Projects/Github/SoonerCardFront/ISOParse/ISOParse.csproj",
+        "projectPath": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
         "packagesPath": "/Users/edward/.nuget/packages/",
-        "outputPath": "/Users/edward/Projects/Github/SoonerCardFront/ISOParse/obj/",
+        "outputPath": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edward/.config/NuGet/NuGet.Config"

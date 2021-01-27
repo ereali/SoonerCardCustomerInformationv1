@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WYbbsyjxm/+gkZEgB8jQuOwA1duAYBPCEut7BdJReGozrBZfykk3b+keaSwS8mKIIRj5b08hihUUb1Xukpps9w==",
+  "dgSpecHash": "xOZWiUynrlISJdHyD55+tFnTsB9P7yNDlsFcS/Q5TvPxG5MB/k5n05jmu5MzGhqcCF5yv1lamvkYBh6N2zuZIg==",
   "success": true,
-  "projectFilePath": "/Users/edward/Projects/Github/SoonerCardFront/ISOParse/ISOParse.csproj",
+  "projectFilePath": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
   "expectedPackageFiles": [
     "/Users/edward/.nuget/packages/csvhelper/19.0.0/csvhelper.19.0.0.nupkg.sha512",
     "/Users/edward/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

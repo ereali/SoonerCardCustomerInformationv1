@@ -43,6 +43,7 @@
     <Folder Include="API_CORE\" />
     <Folder Include="bin\Debug\netcoreapp3.1\" />
     <Folder Include="API_SEC\" />
+    <Folder Include="bin\Release\netcoreapp3.1\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="RestSharp" Version="106.11.7" />
@@ -58,59 +59,6 @@
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
     <PackageReference Include="CsvHelper" Version="19.0.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Release\netcoreapp3.1\publish\appsettings.json" />
-    <None Include="bin\Release\netcoreapp3.1\publish\CsvHelper.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\ISOParse.deps.json" />
-    <None Include="bin\Release\netcoreapp3.1\publish\ISOParse.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\ISOParse.pdb" />
-    <None Include="bin\Release\netcoreapp3.1\publish\ISOParse.runtimeconfig.json" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.Abstractions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.Binder.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.CommandLine.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.EnvironmentVariables.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.FileExtensions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.Json.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Configuration.UserSecrets.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.FileProviders.Abstractions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.FileProviders.Physical.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.FileSystemGlobbing.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Options.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\RestSharp.dll" />
-    <None Include="bin\Release\netcoreapp3.1\publish\System.Text.Json.dll" />
-    <None Include="bin\Release\netcoreapp3.1\appsettings.json" />
-    <None Include="bin\Release\netcoreapp3.1\CsvHelper.dll" />
-    <None Include="bin\Release\netcoreapp3.1\ISOParse.deps.json" />
-    <None Include="bin\Release\netcoreapp3.1\ISOParse.dll" />
-    <None Include="bin\Release\netcoreapp3.1\ISOParse.pdb" />
-    <None Include="bin\Release\netcoreapp3.1\ISOParse.runtimeconfig.dev.json" />
-    <None Include="bin\Release\netcoreapp3.1\ISOParse.runtimeconfig.json" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll" />
-    <None Include="bin\Release\netcoreapp3.1\Newtonsoft.Json.dll" />
-    <None Include="bin\Release\netcoreapp3.1\RestSharp.dll" />
-    <None Include="bin\Release\netcoreapp3.1\System.Text.Json.dll" />
   </ItemGroup>
   <ItemGroup>
     <None Update="appsettings.json">
