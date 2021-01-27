@@ -41,7 +41,6 @@
 
   <ItemGroup>
     <Folder Include="API_CORE\" />
-    <Folder Include="bin\Debug\netcoreapp3.1\" />
     <Folder Include="API_SEC\" />
     <Folder Include="bin\Release\netcoreapp3.1\" />
   </ItemGroup>

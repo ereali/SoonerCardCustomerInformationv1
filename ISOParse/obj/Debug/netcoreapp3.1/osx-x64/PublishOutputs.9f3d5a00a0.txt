@@ -1,0 +1,2 @@
+/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/bin/Debug/netcoreapp3.1/osx-x64/publish/ISOParse.pdb
+/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/bin/Debug/netcoreapp3.1/osx-x64/publish/ISOParse
