@@ -437,3 +437,4 @@
 /Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/obj/Debug/netcoreapp3.1/osx-x64/ISOParse.dll
 /Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/obj/Debug/netcoreapp3.1/osx-x64/ISOParse.pdb
 /Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/obj/Debug/netcoreapp3.1/osx-x64/ISOParse.genruntimeconfig.cache
+/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/bin/Debug/netcoreapp3.1/osx-x64/appsettings.json
