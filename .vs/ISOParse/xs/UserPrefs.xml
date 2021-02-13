@@ -1,19 +1,25 @@
 ﻿<Properties StartupConfiguration="{85DC46F1-8851-4CA1-934D-040494181867}|Default">
   <MonoDevelop.Ide.ItemProperties.ISOParse PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ISOParse/API_SEC/DoorAccess.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ISOParse/Helpers/ConHelper.cs">
     <Files>
       <File FileName="ISOParse/API_SEC/DoorAccess.cs" Line="1" Column="1" />
-      <File FileName="ISOParse/API_SEC/DoorAccessAPIHandler.cs" />
+      <File FileName="ISOParse/API_SEC/DoorAccessAPIHandler.cs" Line="1" Column="1" />
       <File FileName="ISOParse/ConfigBuilder.cs" />
-      <File FileName="ISOParse/API_CORE/CustVerify.cs" />
+      <File FileName="ISOParse/API_CORE/CustVerify.cs" Line="1" Column="1" />
+      <File FileName="ISOParse/appsettings.json" Line="1" Column="1" />
+      <File FileName="ISOParse/CSVHandler.cs" Line="1" Column="1" />
+      <File FileName="ISOParse/MenuHandler.cs" Line="1" Column="1" />
+      <File FileName="ISOParse/Helpers/ConHelper.cs" Line="29" Column="94" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ISOParse" expanded="True">
             <Node name="ISOParse" expanded="True">
-              <Node name="API_SEC" expanded="True">
-                <Node name="DoorAccess.cs" selected="True" />
+              <Node name="API_CORE" expanded="True" />
+              <Node name="API_SEC" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="ConHelper.cs" selected="True" />
               </Node>
             </Node>
           </Node>

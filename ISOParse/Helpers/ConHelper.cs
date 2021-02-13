@@ -26,6 +26,7 @@ namespace ISOParse
             Console.WriteLine("      Display customer info in console                     : 1");
             Console.WriteLine("      Display customer info in console with stored values  : 2");
             Console.WriteLine("      Save customer info to .csv file                      : 3");
+            Console.WriteLine("      Display Customer Door Access Plans                   : 4");
             Console.Write("Select an option: ");
         }
     }
