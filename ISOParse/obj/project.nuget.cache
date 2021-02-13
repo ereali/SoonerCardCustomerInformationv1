@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wK/1+S8ToC29BqGTC9dd1mC9mHm6Cy1oDiLq8X4PL9vmA7P69fSwHbGlrEHTgQOFziwM5f3K09M6Uj6u60DBNg==",
+  "dgSpecHash": "uH0C+9NGzWL9ZNCdVYrWEVblGWIihrdgUpls3OOsxxIDLw3xJVFKdkZKk4BSbr/U9cUHitmAsKyHl5eGkN58Ww==",
   "success": true,
   "projectFilePath": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
   "expectedPackageFiles": [
@@ -24,9 +24,7 @@
     "/Users/edward/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/edward/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/edward/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512",
-    "/Users/edward/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512",
-    "/Users/edward/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/3.1.11/microsoft.netcore.app.runtime.osx-x64.3.1.11.nupkg.sha512",
-    "/Users/edward/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/3.1.11/microsoft.aspnetcore.app.runtime.osx-x64.3.1.11.nupkg.sha512"
+    "/Users/edward/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
