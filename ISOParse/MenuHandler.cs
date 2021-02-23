@@ -12,38 +12,34 @@ namespace ISOParse
 
         private void MenuStart()
         {
-            ConHelper.DisplayMenu();
-            int menuSel = TryParse.TryParseInt();
-            int menuSelN = TryParse.MenuSel(menuSel);
+            bool done = false;
 
-            switch (menuSelN)
+            while(!done)
             {
-                case 1:
-                    DisplayInConsole();
-                    break;
-                case 2:
-                    DisplayInConsoleSV();
-                    break;
-                case 3:
-                    //calls csv class for exporting
-                    var csvHandler = new CSVHandler();
-                    break;
-                case 4:
-                    var doorAccess = new DoorAccessAPIHandler();
-                    break;
+                ConHelper.DisplayMenu();
+                int menuSel = TryParse.TryParseInt();
+                int menuSelN = TryParse.MenuSel(menuSel);
+
+                switch (menuSelN)
+                {
+                    case 1:
+                        DisplayInConsole();
+                        break;
+                    case 2:
+                        DisplayInConsoleSV();
+                        break;
+                    case 3:
+                        //calls csv class for exporting
+                        var csvHandler = new CSVHandler();
+                        break;
+                    case 4:
+                        var doorAccess = new DoorAccessAPIHandler();
+                        break;
+                    case 5:
+                        Environment.Exit(0);
+                        break;
+                }
             }
-
-            //if (menuSelN == 1)
-
-            //if (menuSelN == 1)
-            //{
-            //    //menu1();
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Incorrect Option Selected");
-            //}
-
         }
 
         private void DisplayInConsole()

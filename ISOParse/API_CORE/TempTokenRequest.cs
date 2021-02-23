@@ -39,17 +39,24 @@ namespace ISOParse.API
             //Executes the API Request
             IRestResponse tempResponse = client.Execute(request);
 
-            if (tempResponse.Content != "")
+            try
             {
-                //Make exception clause if not responding
-                TempToken = tempResponse.Content.Split("&")[0].Split("=")[1];
-                TempTokenSecret = tempResponse.Content.Split("&")[1].Split("=")[1];
+                if (tempResponse.Content != "")
+                {
+                    //Make exception clause if not responding
+                    TempToken = tempResponse.Content.Split("&")[0].Split("=")[1];
+                    TempTokenSecret = tempResponse.Content.Split("&")[1].Split("=")[1];
 
-                return true;
-                //For debugging purposes, remove later
-                //Console.WriteLine($"Temp Token: {TempToken}\n\rTemp Secret: {TempTokenSecret}");
+                    return true;
+                    //For debugging purposes, remove later
+                    //Console.WriteLine($"Temp Token: {TempToken}\n\rTemp Secret: {TempTokenSecret}");
+                }
+                else
+                {
+                    return false;
+                }
             }
-            else
+            catch (SystemException)
             {
                 return false;
             }

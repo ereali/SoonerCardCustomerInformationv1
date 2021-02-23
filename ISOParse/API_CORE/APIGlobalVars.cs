@@ -5,7 +5,7 @@ namespace ISOParse.API
 {
     public class APIGlobalVars
     {
-        public readonly static string HostName = "bb-ts-app.sooner.net.ou.edu";
+        public readonly static string HostName = "";
 
         public static string IncludeImageYes = "Include";
 
@@ -14,6 +14,5 @@ namespace ISOParse.API
         public APIGlobalVars()
         {
         }
-
     }
 }

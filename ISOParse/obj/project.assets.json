@@ -768,19 +768,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/edward/.nuget/packages/": {}
+    "/Users/Edward/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
+      "projectUniqueName": "/Users/Edward/Documents/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
       "projectName": "ISOParse",
-      "projectPath": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
-      "packagesPath": "/Users/edward/.nuget/packages/",
-      "outputPath": "/Users/edward/Projects/Development/SoonerCard_CustInfo/ISOParse/obj/",
+      "projectPath": "/Users/Edward/Documents/Development/SoonerCard_CustInfo/ISOParse/ISOParse.csproj",
+      "packagesPath": "/Users/Edward/.nuget/packages/",
+      "outputPath": "/Users/Edward/Documents/Development/SoonerCard_CustInfo/ISOParse/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/edward/.config/NuGet/NuGet.Config"
+        "/Users/Edward/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -868,7 +868,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

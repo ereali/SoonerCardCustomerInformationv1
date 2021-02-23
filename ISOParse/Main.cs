@@ -13,8 +13,6 @@ namespace ISOParse
     {
         static void Main(string[] args)
         {
-            //var cardStart = new CardStart();
-
             var menuHandler = new MenuHandler();
 
             Console.WriteLine("\n\rThank you for using the Sooner Card Customer Info Application");
