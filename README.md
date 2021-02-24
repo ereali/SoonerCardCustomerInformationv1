@@ -66,7 +66,7 @@ General Norman Staff Access
 
 Customer has 2 door access plans
 ```
-***2) OAuth 1.0a one-legged authentication using [RestSharp](https://https://restsharp.dev/)***
+***2) OAuth 1.0a one-legged authentication using [RestSharp](https://restsharp.dev/)***
 
 The **TempTokenRequest class** is how an OAuth 1.0a request token is generated and saved in the instance of the class. Similar methods are used for the rest of the token generation and authentication in the application.
 ```C#
