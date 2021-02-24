@@ -4,7 +4,7 @@
 
 Sooner Card Customer Info is an application that displays proprietary Transact customer information by sending an assigned ISO ID through REST API requests. Using either manual entry or an MRD5 credential reader.
 
-This console application is meant as a framework for development using Transact Campus HTTP RESTful APIs and OAuth 1.0a.
+This console application is meant as a framework for development using Transact Campus HTTP RESTful APIs and OAuth 1.0a. This application is a testing application and is not designed for deployment in a production environment.
 
 This application is developed using **C# with .NET Core 3.1** primarily on Visual Studio for MacOS.
 
