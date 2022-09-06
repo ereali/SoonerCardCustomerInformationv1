@@ -1,6 +1,6 @@
 # Sooner Card Cust Info
 
-**Note, this application is meant for internal use or otherwise authorized external use. Do not share this repository unless authorized.**
+##DEPRICATED APPLICATION - NO LONGER SUPPORTED
 
 Sooner Card Customer Info is an application that displays proprietary Transact customer information by sending an assigned ISO ID through REST API requests. Using either manual entry or an MRD5 credential reader.
 
@@ -153,9 +153,4 @@ In the APIGlobalVars class put in your application server hostname **without** "
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. This is meant to be a collaborative effort and improving the code is welcome.
 
 ## Authors and Acknowledgment
-### Primary Developer: Edward Reali | Sooner Card Analyst | [ereali@ou.edu](mailto:ereali@ou.edu)
-### Project Oversight: Chris Gillett | Sooner Card Director | [cgillett@ou.edu](mailto:cgillett@ou.edu)
-
-### [Sooner Card Website](https://ou.edu/soonercard)
-
-[soonercard@ou.edu](mailto:soonercard@ou.edu)
+### Primary Developer: Edward Reali
