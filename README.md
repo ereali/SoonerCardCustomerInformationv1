@@ -1,6 +1,6 @@
 # Sooner Card Cust Info
 
-##DEPRICATED APPLICATION - NO LONGER SUPPORTED
+## DEPRICATED APPLICATION - NO LONGER SUPPORTED
 
 Sooner Card Customer Info is an application that displays proprietary Transact customer information by sending an assigned ISO ID through REST API requests. Using either manual entry or an MRD5 credential reader.
 
