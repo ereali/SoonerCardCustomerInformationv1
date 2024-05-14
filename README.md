@@ -1,4 +1,4 @@
-# Sooner Card Cust Info
+# Sooner Card Customer Information Console Application
 
 ## DEPRECATED APPLICATION - NO LONGER SUPPORTED
 
