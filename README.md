@@ -1,17 +1,17 @@
 # Sooner Card Cust Info
 
-## DEPRICATED APPLICATION - NO LONGER SUPPORTED
+## DEPRECATED APPLICATION - NO LONGER SUPPORTED
 
-Sooner Card Customer Info is an application that displays proprietary Transact customer information by sending an assigned ISO ID through REST API requests. Using either manual entry or an MRD5 credential reader.
+Sooner Card Customer Info is an application that displays Transact Campus customer information by sending an assigned ISO ID through RESTful API requests. Using either manual entry or a designated credential reader.
 
-This console application is meant as a framework for development using Transact Campus HTTP RESTful APIs and OAuth 1.0a. This application is a testing application and is not designed for deployment in a production environment.
+This console application is meant as a framework for development using Transact Campus HTTP RESTful APIs and OAuth 1.0a. This application is a proof of concept application and is not designed for deployment in a production environment.
 
 This application is developed using **C# with .NET Core 3.1** primarily on Visual Studio for MacOS.
 
 ### Features of this application include:
 ***1) Different ways to display customer data including:***
 
-   Basic customer info with first name, last name, customer number, email and a timestamp.
+   Basic customer info with first name, last name, customer number, email, and a timestamp.
    
    Basic customer info with stored value account amounts.
    
@@ -149,7 +149,7 @@ In the APIGlobalVars class put in your application server hostname **without** "
 
 **Depending on the version of Transact that is being used API URIs might need to be modified, as of this time the URIs are stored per API request or authorization class.**
 
-## Contributing
+## Contributing - No Longer Supported
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. This is meant to be a collaborative effort and improving the code is welcome.
 
 ## Authors and Acknowledgment
